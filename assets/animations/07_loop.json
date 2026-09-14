@@ -1,0 +1,26 @@
+{
+  "id": "07_loop",
+  "action": 7,
+  "name": "站立抬尾",
+  "use": "散步结束站立",
+  "source": "7循环.mp4",
+  "loop": true,
+  "animation": "animations/07_loop.webp",
+  "poster": "posters/07_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 512,
+  "height": 436,
+  "crop": [
+    0,
+    38,
+    512,
+    474
+  ],
+  "signature": {
+    "sha256": "9b9202d7cf6dac336466da98b157db85b46740d067e982b87f17168f3819002d",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 3
+  }
+}

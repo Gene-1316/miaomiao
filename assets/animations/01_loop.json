@@ -1,0 +1,26 @@
+{
+  "id": "01_loop",
+  "action": 1,
+  "name": "趴卧清醒",
+  "use": "平静时休息",
+  "source": "1循环.mp4",
+  "loop": true,
+  "animation": "animations/01_loop.webp",
+  "poster": "posters/01_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 506,
+  "height": 361,
+  "crop": [
+    0,
+    88,
+    506,
+    449
+  ],
+  "signature": {
+    "sha256": "2e2cbdc12111086042fe9410139871aac2cd0def928870725611ecc70807fbaf",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

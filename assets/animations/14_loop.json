@@ -1,0 +1,26 @@
+{
+  "id": "14_loop",
+  "action": 14,
+  "name": "回头看",
+  "use": "回望主人",
+  "source": "14循环.mp4",
+  "loop": true,
+  "animation": "animations/14_loop.webp",
+  "poster": "posters/14_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 322,
+  "height": 447,
+  "crop": [
+    72,
+    21,
+    394,
+    468
+  ],
+  "signature": {
+    "sha256": "ec7ffdf15d5540917b2818d8ebe2d9edee66fd12d7927489f54fde821c0b0e4f",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

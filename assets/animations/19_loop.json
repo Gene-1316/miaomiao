@@ -1,0 +1,26 @@
+{
+  "id": "19_loop",
+  "action": 19,
+  "name": "拉粑粑",
+  "use": "使用猫砂盆",
+  "source": "19循环.mp4",
+  "loop": true,
+  "animation": "animations/19_loop.webp",
+  "poster": "posters/19_loop.png",
+  "frames": 97,
+  "duration_ms": 4042,
+  "width": 385,
+  "height": 342,
+  "crop": [
+    44,
+    90,
+    429,
+    432
+  ],
+  "signature": {
+    "sha256": "80c34ce569f25c709e8819ac775ca95094ac11dd886edc902061d1c05fb39e1b",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

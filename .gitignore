@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+save_data/
+
+# 打包产物
+build/
+dist/
+
+# 体积过大的发布自检目录（每个含 100MB+ EXE）
+artifacts/exe-release-check-*/
+artifacts/smoke_save*
+artifacts/test_runs/
+artifacts/*.log
+artifacts/qa_*
+artifacts/*.lock

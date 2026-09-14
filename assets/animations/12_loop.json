@@ -1,0 +1,26 @@
+{
+  "id": "12_loop",
+  "action": 12,
+  "name": "打哈欠",
+  "use": "精力不足、困倦",
+  "source": "12循环.mp4",
+  "loop": true,
+  "animation": "animations/12_loop.webp",
+  "poster": "posters/12_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 394,
+  "height": 469,
+  "crop": [
+    0,
+    9,
+    394,
+    478
+  ],
+  "signature": {
+    "sha256": "b35c45f93fc8e302b38cf5603c2dafd0666f8a1a6373b6b828ea96e31cda4f2f",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

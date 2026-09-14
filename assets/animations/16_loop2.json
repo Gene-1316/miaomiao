@@ -1,0 +1,26 @@
+{
+  "id": "16_loop2",
+  "action": 16,
+  "name": "低身前行",
+  "use": "探索、追逐",
+  "source": "16循环2.mp4",
+  "loop": true,
+  "animation": "animations/16_loop2.webp",
+  "poster": "posters/16_loop2.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 475,
+  "height": 364,
+  "crop": [
+    0,
+    70,
+    475,
+    434
+  ],
+  "signature": {
+    "sha256": "ded0ab59cf0f4ba4999b7c9e2715ac414f5382866a560f5cb531c5d12278effc",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

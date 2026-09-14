@@ -1,0 +1,26 @@
+{
+  "id": "08_loop",
+  "action": 8,
+  "name": "正坐正视",
+  "use": "默认陪伴姿态",
+  "source": "8循环.mp4",
+  "loop": true,
+  "animation": "animations/08_loop.webp",
+  "poster": "posters/08_loop.png",
+  "frames": 97,
+  "duration_ms": 4042,
+  "width": 362,
+  "height": 466,
+  "crop": [
+    55,
+    21,
+    417,
+    487
+  ],
+  "signature": {
+    "sha256": "36df45b3d1499ceb88f1165f963354f21ad785b899c8f9301c52d849cb4122e7",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "09_loop",
+  "action": 9,
+  "name": "站立挥爪",
+  "use": "打招呼、领取奖励",
+  "source": "9循环.mp4",
+  "loop": true,
+  "animation": "animations/09_loop.webp",
+  "poster": "posters/09_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 341,
+  "height": 486,
+  "crop": [
+    68,
+    3,
+    409,
+    489
+  ],
+  "signature": {
+    "sha256": "fbef1cd6e0ae48850f376d64a90631e62d3886697a11fe3d5c681fb1ceede181",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

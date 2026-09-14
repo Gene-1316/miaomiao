@@ -1,0 +1,26 @@
+{
+  "id": "16_once",
+  "action": 16,
+  "name": "低身前行",
+  "use": "探索、追逐",
+  "source": "16非循环.mp4",
+  "loop": false,
+  "animation": "animations/16_once.webp",
+  "poster": "posters/16_once.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 483,
+  "height": 376,
+  "crop": [
+    0,
+    96,
+    483,
+    472
+  ],
+  "signature": {
+    "sha256": "1f92fc3f4e0afeec1bb3154009d6ed296545d97d24e34b272e5040bd3aeb4d93",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

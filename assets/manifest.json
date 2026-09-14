@@ -1,0 +1,711 @@
+{
+  "version": 1,
+  "clips": [
+    {
+      "id": "01_loop",
+      "action": 1,
+      "name": "趴卧清醒",
+      "use": "平静时休息",
+      "source": "1循环.mp4",
+      "loop": true,
+      "animation": "animations/01_loop.webp",
+      "poster": "posters/01_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 506,
+      "height": 361,
+      "crop": [
+        0,
+        88,
+        506,
+        449
+      ],
+      "signature": {
+        "sha256": "2e2cbdc12111086042fe9410139871aac2cd0def928870725611ecc70807fbaf",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "02_loop",
+      "action": 2,
+      "name": "蜷缩睡觉",
+      "use": "睡眠与精力恢复",
+      "source": "2循环.mp4",
+      "loop": true,
+      "animation": "animations/02_loop.webp",
+      "poster": "posters/02_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 475,
+      "height": 302,
+      "crop": [
+        19,
+        116,
+        494,
+        418
+      ],
+      "signature": {
+        "sha256": "01489557d5ccb2a464e533d53e6b9a15bebea0888ba0b84aea4c258db9c15c1c",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "03_loop",
+      "action": 3,
+      "name": "坐姿仰望",
+      "use": "期待投喂、关注主人",
+      "source": "3循环.mp4",
+      "loop": true,
+      "animation": "animations/03_loop.webp",
+      "poster": "posters/03_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 414,
+      "height": 480,
+      "crop": [
+        0,
+        11,
+        414,
+        491
+      ],
+      "signature": {
+        "sha256": "cdf35173490996eec124aa02bb98e47b1c9c299f85f38bffa8430c41ed90ed37",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "04_loop",
+      "action": 4,
+      "name": "侧坐注视",
+      "use": "安静陪伴（原视频与 05 完全相同）",
+      "source": "4循环.mp4",
+      "loop": true,
+      "animation": "animations/04_loop.webp",
+      "poster": "posters/04_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 360,
+      "height": 438,
+      "crop": [
+        67,
+        35,
+        427,
+        473
+      ],
+      "signature": {
+        "sha256": "a73f9c3a6596fb5e82e694e1718d31de4110f0c085c072653ca5d6c22116c11f",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "05_loop",
+      "action": 5,
+      "name": "歪头坐姿",
+      "use": "好奇、回应抚摸",
+      "source": "5循环.mp4",
+      "loop": true,
+      "animation": "animations/05_loop.webp",
+      "poster": "posters/05_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 360,
+      "height": 438,
+      "crop": [
+        67,
+        35,
+        427,
+        473
+      ],
+      "signature": {
+        "sha256": "a73f9c3a6596fb5e82e694e1718d31de4110f0c085c072653ca5d6c22116c11f",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "06_loop",
+      "action": 6,
+      "name": "侧身行走",
+      "use": "桌面散步",
+      "source": "6循环.mp4",
+      "loop": true,
+      "animation": "animations/06_loop.webp",
+      "poster": "posters/06_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 512,
+      "height": 391,
+      "crop": [
+        0,
+        46,
+        512,
+        437
+      ],
+      "signature": {
+        "sha256": "2a1e514e13a78927c3c3c048f3df5706d18928fa3ed94bf61b56763bbeb97d30",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "07_loop",
+      "action": 7,
+      "name": "站立抬尾",
+      "use": "散步结束站立",
+      "source": "7循环.mp4",
+      "loop": true,
+      "animation": "animations/07_loop.webp",
+      "poster": "posters/07_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 512,
+      "height": 436,
+      "crop": [
+        0,
+        38,
+        512,
+        474
+      ],
+      "signature": {
+        "sha256": "9b9202d7cf6dac336466da98b157db85b46740d067e982b87f17168f3819002d",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 3
+      }
+    },
+    {
+      "id": "08_loop",
+      "action": 8,
+      "name": "正坐正视",
+      "use": "默认陪伴姿态",
+      "source": "8循环.mp4",
+      "loop": true,
+      "animation": "animations/08_loop.webp",
+      "poster": "posters/08_loop.png",
+      "frames": 97,
+      "duration_ms": 4042,
+      "width": 362,
+      "height": 466,
+      "crop": [
+        55,
+        21,
+        417,
+        487
+      ],
+      "signature": {
+        "sha256": "36df45b3d1499ceb88f1165f963354f21ad785b899c8f9301c52d849cb4122e7",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "09_loop",
+      "action": 9,
+      "name": "站立挥爪",
+      "use": "打招呼、领取奖励",
+      "source": "9循环.mp4",
+      "loop": true,
+      "animation": "animations/09_loop.webp",
+      "poster": "posters/09_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 341,
+      "height": 486,
+      "crop": [
+        68,
+        3,
+        409,
+        489
+      ],
+      "signature": {
+        "sha256": "fbef1cd6e0ae48850f376d64a90631e62d3886697a11fe3d5c681fb1ceede181",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "10_loop",
+      "action": 10,
+      "name": "低头玩耍",
+      "use": "玩耍",
+      "source": "10循环.mp4",
+      "loop": true,
+      "animation": "animations/10_loop.webp",
+      "poster": "posters/10_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 408,
+      "height": 381,
+      "crop": [
+        26,
+        72,
+        434,
+        453
+      ],
+      "signature": {
+        "sha256": "904d7695251a961a6478c748b749f8aaa55768b073aa3c5cc0c48cca0a5419db",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "10_once",
+      "action": 10,
+      "name": "低头玩耍",
+      "use": "玩耍",
+      "source": "10非循环.mp4",
+      "loop": false,
+      "animation": "animations/10_once.webp",
+      "poster": "posters/10_once.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 415,
+      "height": 393,
+      "crop": [
+        0,
+        72,
+        415,
+        465
+      ],
+      "signature": {
+        "sha256": "1c87ec107ed4246bcbc6dde57a3e7bd33bb1f0e7fbc96626cab7bd4076869b9c",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "11_loop",
+      "action": 11,
+      "name": "伸懒腰",
+      "use": "醒来、伸展",
+      "source": "11循环.mp4",
+      "loop": true,
+      "animation": "animations/11_loop.webp",
+      "poster": "posters/11_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 390,
+      "height": 480,
+      "crop": [
+        66,
+        0,
+        456,
+        480
+      ],
+      "signature": {
+        "sha256": "bf98d6c2b7b1776e8790221d4cd138a525e9b1127e633c52dead8f0bb7407dff",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "11_once",
+      "action": 11,
+      "name": "伸懒腰",
+      "use": "醒来、伸展",
+      "source": "11非循环.mp4",
+      "loop": false,
+      "animation": "animations/11_once.webp",
+      "poster": "posters/11_once.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 462,
+      "height": 486,
+      "crop": [
+        0,
+        0,
+        462,
+        486
+      ],
+      "signature": {
+        "sha256": "6b9ddd4a3f0aeee1d1b8900722454097409233d9b66710b559d5ba077e895bd6",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "12_loop",
+      "action": 12,
+      "name": "打哈欠",
+      "use": "精力不足、困倦",
+      "source": "12循环.mp4",
+      "loop": true,
+      "animation": "animations/12_loop.webp",
+      "poster": "posters/12_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 394,
+      "height": 469,
+      "crop": [
+        0,
+        9,
+        394,
+        478
+      ],
+      "signature": {
+        "sha256": "b35c45f93fc8e302b38cf5603c2dafd0666f8a1a6373b6b828ea96e31cda4f2f",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "12_once",
+      "action": 12,
+      "name": "打哈欠",
+      "use": "精力不足、困倦",
+      "source": "12非循环.mp4",
+      "loop": false,
+      "animation": "animations/12_once.webp",
+      "poster": "posters/12_once.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 394,
+      "height": 465,
+      "crop": [
+        0,
+        13,
+        394,
+        478
+      ],
+      "signature": {
+        "sha256": "d6c5805292da14e5161663411aa5e25f319b0a3554cf66a2b7c20a85fcdfcd56",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "13_loop",
+      "action": 13,
+      "name": "舔爪",
+      "use": "梳毛与清洁",
+      "source": "13循环.mp4",
+      "loop": true,
+      "animation": "animations/13_loop.webp",
+      "poster": "posters/13_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 356,
+      "height": 462,
+      "crop": [
+        38,
+        11,
+        394,
+        473
+      ],
+      "signature": {
+        "sha256": "372b00f96e78ee036c1cea399d5481baf10f6eb79078221ed8df83d3244e7c8a",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "13_once",
+      "action": 13,
+      "name": "舔爪",
+      "use": "梳毛与清洁",
+      "source": "13非循环.mp4",
+      "loop": false,
+      "animation": "animations/13_once.webp",
+      "poster": "posters/13_once.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 391,
+      "height": 449,
+      "crop": [
+        22,
+        24,
+        413,
+        473
+      ],
+      "signature": {
+        "sha256": "1d2ccf2548788b8a969bc4669cb1239943de17b3924135250c04f325b473bf19",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "14_loop",
+      "action": 14,
+      "name": "回头看",
+      "use": "回望主人",
+      "source": "14循环.mp4",
+      "loop": true,
+      "animation": "animations/14_loop.webp",
+      "poster": "posters/14_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 322,
+      "height": 447,
+      "crop": [
+        72,
+        21,
+        394,
+        468
+      ],
+      "signature": {
+        "sha256": "ec7ffdf15d5540917b2818d8ebe2d9edee66fd12d7927489f54fde821c0b0e4f",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "14_once",
+      "action": 14,
+      "name": "回头看",
+      "use": "回望主人",
+      "source": "14非循环.mp4",
+      "loop": false,
+      "animation": "animations/14_once.webp",
+      "poster": "posters/14_once.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 383,
+      "height": 481,
+      "crop": [
+        18,
+        17,
+        401,
+        498
+      ],
+      "signature": {
+        "sha256": "9c77d6ddb6915ded38b13b7aef81837502428b929bb3aeda571b859735ab70f9",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "15_once",
+      "action": 15,
+      "name": "翻身卖萌",
+      "use": "亲密互动与撒娇",
+      "source": "15非循环.mp4",
+      "loop": false,
+      "animation": "animations/15_once.webp",
+      "poster": "posters/15_once.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 509,
+      "height": 324,
+      "crop": [
+        0,
+        106,
+        509,
+        430
+      ],
+      "signature": {
+        "sha256": "96739c3ff6473aa150ca6746e485ca6005a08f2612ed40c27170224335bbd477",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "16_loop",
+      "action": 16,
+      "name": "低身前行",
+      "use": "探索、追逐",
+      "source": "16循环.mp4",
+      "loop": true,
+      "animation": "animations/16_loop.webp",
+      "poster": "posters/16_loop.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 481,
+      "height": 370,
+      "crop": [
+        0,
+        64,
+        481,
+        434
+      ],
+      "signature": {
+        "sha256": "4d2bd31a8c59d96dae1125bad7ea91e3fa63d576a6fcad4cff314db9661717e5",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "16_loop2",
+      "action": 16,
+      "name": "低身前行",
+      "use": "探索、追逐",
+      "source": "16循环2.mp4",
+      "loop": true,
+      "animation": "animations/16_loop2.webp",
+      "poster": "posters/16_loop2.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 475,
+      "height": 364,
+      "crop": [
+        0,
+        70,
+        475,
+        434
+      ],
+      "signature": {
+        "sha256": "ded0ab59cf0f4ba4999b7c9e2715ac414f5382866a560f5cb531c5d12278effc",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "16_once",
+      "action": 16,
+      "name": "低身前行",
+      "use": "探索、追逐",
+      "source": "16非循环.mp4",
+      "loop": false,
+      "animation": "animations/16_once.webp",
+      "poster": "posters/16_once.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 483,
+      "height": 376,
+      "crop": [
+        0,
+        96,
+        483,
+        472
+      ],
+      "signature": {
+        "sha256": "1f92fc3f4e0afeec1bb3154009d6ed296545d97d24e34b272e5040bd3aeb4d93",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "17_loop",
+      "action": 17,
+      "name": "喝水",
+      "use": "补充水分",
+      "source": "17循环.mp4",
+      "loop": true,
+      "animation": "animations/17_loop.webp",
+      "poster": "posters/17_loop.png",
+      "frames": 97,
+      "duration_ms": 4042,
+      "width": 466,
+      "height": 336,
+      "crop": [
+        0,
+        100,
+        466,
+        436
+      ],
+      "signature": {
+        "sha256": "854be1f624ff3fa9518c52174d19a2dc697d16da92dd77f91f5ea38bbef09e65",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "17_loop2",
+      "action": 17,
+      "name": "喝水",
+      "use": "补充水分",
+      "source": "17循环2.mp4",
+      "loop": true,
+      "animation": "animations/17_loop2.webp",
+      "poster": "posters/17_loop2.png",
+      "frames": 107,
+      "duration_ms": 4458,
+      "width": 465,
+      "height": 337,
+      "crop": [
+        10,
+        99,
+        475,
+        436
+      ],
+      "signature": {
+        "sha256": "9083500b258b9077e0c44e53522f44c3155aae015a210686bc90be9ae2f0a035",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "18_loop",
+      "action": 18,
+      "name": "吃饭",
+      "use": "进食",
+      "source": "18循环.mp4",
+      "loop": true,
+      "animation": "animations/18_loop.webp",
+      "poster": "posters/18_loop.png",
+      "frames": 97,
+      "duration_ms": 4042,
+      "width": 475,
+      "height": 352,
+      "crop": [
+        0,
+        90,
+        475,
+        442
+      ],
+      "signature": {
+        "sha256": "a8213e89fe4d514881def1b0c06e49b6e59fe554630ee57d7f7fc5184d8b3e95",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    },
+    {
+      "id": "19_loop",
+      "action": 19,
+      "name": "拉粑粑",
+      "use": "使用猫砂盆",
+      "source": "19循环.mp4",
+      "loop": true,
+      "animation": "animations/19_loop.webp",
+      "poster": "posters/19_loop.png",
+      "frames": 97,
+      "duration_ms": 4042,
+      "width": 385,
+      "height": 342,
+      "crop": [
+        44,
+        90,
+        429,
+        432
+      ],
+      "signature": {
+        "sha256": "80c34ce569f25c709e8819ac775ca95094ac11dd886edc902061d1c05fb39e1b",
+        "size": 512,
+        "fps": 24,
+        "pipeline": 2
+      }
+    }
+  ],
+  "notes": [
+    "4循环.mp4 与 5循环.mp4 的 SHA-256 完全相同；保留两个语义编号，但显示的是同一段歪头动画。",
+    "动作名称来自首帧图及其含义文件夹；01 图片实际为低坐姿，沿用原标签。"
+  ]
+}

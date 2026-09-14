@@ -1,0 +1,26 @@
+{
+  "id": "13_loop",
+  "action": 13,
+  "name": "舔爪",
+  "use": "梳毛与清洁",
+  "source": "13循环.mp4",
+  "loop": true,
+  "animation": "animations/13_loop.webp",
+  "poster": "posters/13_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 356,
+  "height": 462,
+  "crop": [
+    38,
+    11,
+    394,
+    473
+  ],
+  "signature": {
+    "sha256": "372b00f96e78ee036c1cea399d5481baf10f6eb79078221ed8df83d3244e7c8a",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

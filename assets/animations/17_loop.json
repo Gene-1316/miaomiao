@@ -1,0 +1,26 @@
+{
+  "id": "17_loop",
+  "action": 17,
+  "name": "喝水",
+  "use": "补充水分",
+  "source": "17循环.mp4",
+  "loop": true,
+  "animation": "animations/17_loop.webp",
+  "poster": "posters/17_loop.png",
+  "frames": 97,
+  "duration_ms": 4042,
+  "width": 466,
+  "height": 336,
+  "crop": [
+    0,
+    100,
+    466,
+    436
+  ],
+  "signature": {
+    "sha256": "854be1f624ff3fa9518c52174d19a2dc697d16da92dd77f91f5ea38bbef09e65",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

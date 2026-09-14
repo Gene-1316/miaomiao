@@ -1,0 +1,26 @@
+{
+  "id": "10_once",
+  "action": 10,
+  "name": "低头玩耍",
+  "use": "玩耍",
+  "source": "10非循环.mp4",
+  "loop": false,
+  "animation": "animations/10_once.webp",
+  "poster": "posters/10_once.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 415,
+  "height": 393,
+  "crop": [
+    0,
+    72,
+    415,
+    465
+  ],
+  "signature": {
+    "sha256": "1c87ec107ed4246bcbc6dde57a3e7bd33bb1f0e7fbc96626cab7bd4076869b9c",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

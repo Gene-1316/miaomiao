@@ -1,0 +1,26 @@
+{
+  "id": "06_loop",
+  "action": 6,
+  "name": "侧身行走",
+  "use": "桌面散步",
+  "source": "6循环.mp4",
+  "loop": true,
+  "animation": "animations/06_loop.webp",
+  "poster": "posters/06_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 512,
+  "height": 391,
+  "crop": [
+    0,
+    46,
+    512,
+    437
+  ],
+  "signature": {
+    "sha256": "2a1e514e13a78927c3c3c048f3df5706d18928fa3ed94bf61b56763bbeb97d30",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

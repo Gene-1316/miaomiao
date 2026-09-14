@@ -1,0 +1,26 @@
+{
+  "id": "02_loop",
+  "action": 2,
+  "name": "蜷缩睡觉",
+  "use": "睡眠与精力恢复",
+  "source": "2循环.mp4",
+  "loop": true,
+  "animation": "animations/02_loop.webp",
+  "poster": "posters/02_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 475,
+  "height": 302,
+  "crop": [
+    19,
+    116,
+    494,
+    418
+  ],
+  "signature": {
+    "sha256": "01489557d5ccb2a464e533d53e6b9a15bebea0888ba0b84aea4c258db9c15c1c",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

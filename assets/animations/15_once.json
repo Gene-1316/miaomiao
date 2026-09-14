@@ -1,0 +1,26 @@
+{
+  "id": "15_once",
+  "action": 15,
+  "name": "翻身卖萌",
+  "use": "亲密互动与撒娇",
+  "source": "15非循环.mp4",
+  "loop": false,
+  "animation": "animations/15_once.webp",
+  "poster": "posters/15_once.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 509,
+  "height": 324,
+  "crop": [
+    0,
+    106,
+    509,
+    430
+  ],
+  "signature": {
+    "sha256": "96739c3ff6473aa150ca6746e485ca6005a08f2612ed40c27170224335bbd477",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

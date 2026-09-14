@@ -1,0 +1,19 @@
+{
+  "platform": "windows",
+  "panel_visible": true,
+  "pet_visible": true,
+  "panel_geometry": [
+    420,
+    161,
+    1080,
+    780
+  ],
+  "pet_geometry": [
+    1601,
+    669,
+    290,
+    352
+  ],
+  "name": "miaomiao",
+  "animation_frame": 36
+}

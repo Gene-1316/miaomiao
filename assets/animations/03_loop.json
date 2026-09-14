@@ -1,0 +1,26 @@
+{
+  "id": "03_loop",
+  "action": 3,
+  "name": "坐姿仰望",
+  "use": "期待投喂、关注主人",
+  "source": "3循环.mp4",
+  "loop": true,
+  "animation": "animations/03_loop.webp",
+  "poster": "posters/03_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 414,
+  "height": 480,
+  "crop": [
+    0,
+    11,
+    414,
+    491
+  ],
+  "signature": {
+    "sha256": "cdf35173490996eec124aa02bb98e47b1c9c299f85f38bffa8430c41ed90ed37",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "10_loop",
+  "action": 10,
+  "name": "低头玩耍",
+  "use": "玩耍",
+  "source": "10循环.mp4",
+  "loop": true,
+  "animation": "animations/10_loop.webp",
+  "poster": "posters/10_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 408,
+  "height": 381,
+  "crop": [
+    26,
+    72,
+    434,
+    453
+  ],
+  "signature": {
+    "sha256": "904d7695251a961a6478c748b749f8aaa55768b073aa3c5cc0c48cca0a5419db",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

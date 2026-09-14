@@ -1,0 +1,26 @@
+{
+  "id": "04_loop",
+  "action": 4,
+  "name": "侧坐注视",
+  "use": "安静陪伴（原视频与 05 完全相同）",
+  "source": "4循环.mp4",
+  "loop": true,
+  "animation": "animations/04_loop.webp",
+  "poster": "posters/04_loop.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 360,
+  "height": 438,
+  "crop": [
+    67,
+    35,
+    427,
+    473
+  ],
+  "signature": {
+    "sha256": "a73f9c3a6596fb5e82e694e1718d31de4110f0c085c072653ca5d6c22116c11f",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

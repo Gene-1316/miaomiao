@@ -1,0 +1,26 @@
+{
+  "id": "18_loop",
+  "action": 18,
+  "name": "吃饭",
+  "use": "进食",
+  "source": "18循环.mp4",
+  "loop": true,
+  "animation": "animations/18_loop.webp",
+  "poster": "posters/18_loop.png",
+  "frames": 97,
+  "duration_ms": 4042,
+  "width": 475,
+  "height": 352,
+  "crop": [
+    0,
+    90,
+    475,
+    442
+  ],
+  "signature": {
+    "sha256": "a8213e89fe4d514881def1b0c06e49b6e59fe554630ee57d7f7fc5184d8b3e95",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}

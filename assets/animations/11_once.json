@@ -1,0 +1,26 @@
+{
+  "id": "11_once",
+  "action": 11,
+  "name": "伸懒腰",
+  "use": "醒来、伸展",
+  "source": "11非循环.mp4",
+  "loop": false,
+  "animation": "animations/11_once.webp",
+  "poster": "posters/11_once.png",
+  "frames": 107,
+  "duration_ms": 4458,
+  "width": 462,
+  "height": 486,
+  "crop": [
+    0,
+    0,
+    462,
+    486
+  ],
+  "signature": {
+    "sha256": "6b9ddd4a3f0aeee1d1b8900722454097409233d9b66710b559d5ba077e895bd6",
+    "size": 512,
+    "fps": 24,
+    "pipeline": 2
+  }
+}
