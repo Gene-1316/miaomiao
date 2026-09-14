@@ -4,7 +4,7 @@
 
 ## 启动
 
-**EXE 版**：直接双击 `dist/miaomiao.exe`。这是 Windows 64 位单文件程序，已包含 Python、Qt 和 27 段透明动画，可以只复制这一个 EXE 到其他文件夹或电脑运行。首次启动需要解压内部资源，可能会等待几秒。
+**EXE 版**：从 [Releases](https://github.com/Gene-1316/miaomiao/releases/latest) 下载 `miaomiao.exe`（仓库不包含打包产物），或在本地双击 `dist/miaomiao.exe`。这是 Windows 64 位单文件程序，已包含 Python、Qt 和 27 段透明动画，可以只复制这一个 EXE 到其他文件夹或电脑运行。首次启动需要解压内部资源，可能会等待几秒。
 
 Windows 下双击 **启动桌宠.bat**。当前电脑已经具备依赖，透明素材也已经处理好。
 
